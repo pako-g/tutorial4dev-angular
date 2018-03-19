@@ -6,7 +6,7 @@ import { IBook } from './ibook';
   template: `
     <p>
      {{theBook.name}} : {{theBook.author}} : {{theBook.isbn}}
-     <button (click)="delete(book)">Delete</button>
+     <button (click)="delete(b)">Delete</button>
     </p>
   `,
   styles: []
@@ -18,7 +18,7 @@ export class BookComponent implements OnInit {
   constructor() { }
   ngOnInit() {}
 
-  delete(book) {
-    this.bookDelete.emit(book);
+  delete(b) {
+    this.bookDelete.emit(b);
   }
 }
