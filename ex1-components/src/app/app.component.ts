@@ -4,7 +4,10 @@ import { IBook } from './ibook';
 @Component({
   selector: 'app-root',
   template: `
-    <app-book *ngFor="let book of books" [theBook]="book"></app-book>
+    <app-book *ngFor="let book of books"
+      [theBook]="book"
+      (bookDelete)="deleteBook(book)">
+    </app-book>
   `,
   styles: []
 })
@@ -14,4 +17,8 @@ export class AppComponent {
     { name: 'Java', author: 'tutorial4dev', isbn: '0j761092'},
     { name: 'Javascript', author: 'tutorial4dev', isbn: '1js7622'}
   ];
+
+  deleteBook(book: IBook) {
+    alert('Deleting book:' + JSON.stringify(book));
+  }
 }

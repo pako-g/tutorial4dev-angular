@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 import { IBook } from './ibook';
 
 @Component({
@@ -6,6 +6,7 @@ import { IBook } from './ibook';
   template: `
     <p>
      {{theBook.name}} : {{theBook.author}} : {{theBook.isbn}}
+     <button (click)="delete(book)">Delete</button>
     </p>
   `,
   styles: []
@@ -13,9 +14,11 @@ import { IBook } from './ibook';
 export class BookComponent implements OnInit {
 
   @Input('theBook') theBook: IBook;
+  @Output() bookDelete = new EventEmitter();
   constructor() { }
+  ngOnInit() {}
 
-  ngOnInit() {
+  delete(book) {
+    this.bookDelete.emit(book);
   }
-
 }
