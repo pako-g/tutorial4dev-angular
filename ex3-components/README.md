@@ -1,6 +1,6 @@
-# Tutorial4Dev Angular
+# Ex3Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
 
