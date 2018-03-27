@@ -1,6 +1,5 @@
 import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
 
-
 @Component({
   selector: 'app-child',
   template: `
@@ -16,7 +15,6 @@ import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
       this.changes.push(JSON.stringify(changes));
     }
   }
-
 
 @Component({
   selector: 'app-root',
