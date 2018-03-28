@@ -21,10 +21,14 @@ export class NumbersComponent implements DoCheck {
   }
 
   ngDoCheck() {
+    console.log('Docheck');
+    // console.log(this.numbersArray);
     const differences = this.differ.diff(this .numbersArray);
+    // console.log(differences);
     if (differences) {
       if (differences.forEachAddedItem) {
         differences.forEachAddedItem((item) => {
+          // console.log('Item=>' + item.item);
           if ((item) && (item.item)) {
             this.changes.push('added ' + item.item);
           }
