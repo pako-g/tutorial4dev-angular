@@ -7,7 +7,7 @@ import { CarService } from './car.service';
     <h3>{{name}} Is supercharges: {{supercharges}}</h3>
   `,
   styles: [],
-  providers: [CarService]
+  providers: []
 })
 
 export class CarComponent implements OnInit {
@@ -29,7 +29,8 @@ export class CarComponent implements OnInit {
     <app-car name="Ford GT"></app-car>
     <app-car name="Corvette Z06"> </app-car>
   `,
-  styles: []
+  styles: [],
+  providers: [CarService]
 })
 export class AppComponent {
   title = 'app';
