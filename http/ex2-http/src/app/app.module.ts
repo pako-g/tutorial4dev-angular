@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import { SwaggerService } from './swagger.service';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -13,9 +13,10 @@ import { SwaggerService } from './swagger.service';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
-  providers: [SwaggerService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
