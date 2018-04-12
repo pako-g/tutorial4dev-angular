@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20507509-23bd-4f33-af3a-3a4abc8b21ae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/app/post.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex5-http/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/app/service.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/ex6-http/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +20,32 @@
     <option name="showMethodBody" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/ex7-http/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/http/ex7-http/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,6 +84,8 @@
         <option value="$PROJECT_DIR$/http/ex6-http/src/app/service.service.ts" />
         <option value="$PROJECT_DIR$/http/ex6-http/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/http/ex6-http/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/http/ex7-http/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/http/ex7-http/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -133,6 +102,7 @@
     <handled-path value="$PROJECT_DIR$/http/ex4-http/node_modules" />
     <handled-path value="$PROJECT_DIR$/http/ex5-http/node_modules" />
     <handled-path value="$PROJECT_DIR$/http/ex6-http/node_modules" />
+    <handled-path value="$PROJECT_DIR$/http/ex7-http/node_modules" />
     <handled-path value="$PROJECT_DIR$/observable/ex1-rxjs/node_modules" />
     <handled-path value="$PROJECT_DIR$/observable/ex2-rxjs/node_modules" />
     <handled-path value="$PROJECT_DIR$/observable/ex3-rxjs/node_modules" />
@@ -157,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,20 +143,20 @@
               <item name="tutorial4dev-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial4dev-angular" type="462c0819:PsiDirectoryNode" />
               <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-http" type="462c0819:PsiDirectoryNode" />
+              <item name="ex7-http" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial4dev-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial4dev-angular" type="462c0819:PsiDirectoryNode" />
               <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-http" type="462c0819:PsiDirectoryNode" />
+              <item name="ex7-http" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial4dev-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial4dev-angular" type="462c0819:PsiDirectoryNode" />
               <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-http" type="462c0819:PsiDirectoryNode" />
+              <item name="ex7-http" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -195,8 +164,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,7 +269,9 @@
       <workItem from="1523267379204" duration="3524000" />
       <workItem from="1523286700219" duration="6067000" />
       <workItem from="1523351493427" duration="15581000" />
-      <workItem from="1523466037412" duration="3101000" />
+      <workItem from="1523466037412" duration="3612000" />
+      <workItem from="1523482206211" duration="621000" />
+      <workItem from="1523521756215" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="http">
       <created>1523290659963</created>
@@ -329,14 +301,22 @@
       <option name="project" value="LOCAL" />
       <updated>1523378055692</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ex5-http - ex6-http">
+      <created>1523469585817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523469585817</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43373000" />
+    <option name="totallyTimeSpent" value="45823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="-11" width="1325" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Code explorer" order="3" />
@@ -361,7 +341,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49882168" weight="0.329653" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329653" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49882168" visible="true" weight="0.33911672" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49882168" visible="true" weight="0.3422713" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980362" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -497,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -713,10 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-            <element signature="e#264#271#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,9 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,9 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,9 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -809,9 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,8 +765,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/ex7-http/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/ex7-http/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
